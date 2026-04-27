@@ -11,6 +11,7 @@
     <modules>
         <module>n1exercici1</module>
         <module>n2exercici1</module>
+        <module>n3exercici1</module>
     </modules>
 
     <properties>
